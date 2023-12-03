@@ -21,5 +21,11 @@
   }, {
     "title" : "Cmd2",
     "details" : "Command2"
+  }, {
+    "title" : "Cmd3",
+    "details" : "Command3"
+  }, {
+    "title" : "Cmd5",
+    "details" : "Command5"
   } ]
 }
