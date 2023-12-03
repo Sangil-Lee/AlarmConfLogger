@@ -98,6 +98,10 @@
         <title>Cmd2</title>
         <details>Command2</details>
       </command>
+      <command>
+        <title>Cmd3</title>
+        <details>Cmmand3</details>
+      </command>
     </pv>
   </component>
 </config>
