@@ -90,6 +90,10 @@
         <title>Proc4</title>
         <details>Action4</details>
       </guidance>
+      <command>
+        <title>Cmd1</title>
+        <details>Command1</details>
+      </command>
     </pv>
   </component>
 </config>
