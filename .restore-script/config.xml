@@ -106,6 +106,10 @@
         <title>Cmd4</title>
         <details>Command4</details>
       </command>
+      <command>
+        <title>Cmd5</title>
+        <details>Command5</details>
+      </command>
     </pv>
   </component>
 </config>
