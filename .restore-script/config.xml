@@ -94,6 +94,10 @@
         <title>Cmd1</title>
         <details>Command1</details>
       </command>
+      <command>
+        <title>Cmd2</title>
+        <details>Command2</details>
+      </command>
     </pv>
   </component>
 </config>
