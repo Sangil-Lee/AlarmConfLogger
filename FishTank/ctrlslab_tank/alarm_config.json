@@ -14,12 +14,5 @@
   }, {
     "title" : "Proc4",
     "details" : "Action4"
-  } ],
-  "commands" : [ {
-    "title" : "Cmd1",
-    "details" : "Command1"
-  }, {
-    "title" : "Cmd2",
-    "details" : "Command2"
   } ]
 }
