@@ -18,5 +18,8 @@
   "commands" : [ {
     "title" : "Cmd1",
     "details" : "Command1"
+  }, {
+    "title" : "Cmd2",
+    "details" : "Command2"
   } ]
 }
