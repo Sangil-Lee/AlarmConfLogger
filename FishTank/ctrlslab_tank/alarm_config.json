@@ -11,9 +11,6 @@
   }, {
     "title" : "Proc3",
     "details" : "Action3"
-  }, {
-    "title" : "Proc4",
-    "details" : "Action4"
   } ],
   "commands" : [ {
     "title" : "Cmd1",
@@ -21,5 +18,8 @@
   }, {
     "title" : "Cmd2",
     "details" : "Command2"
+  }, {
+    "title" : "Cmd3",
+    "details" : "Command3"
   } ]
 }
